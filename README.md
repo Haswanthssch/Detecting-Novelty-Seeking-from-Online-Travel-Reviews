@@ -72,3 +72,72 @@ Manual classification is not feasible due to data size and complexity. Our syste
 
 ## 📂 Project Structure
 
+```
+📁 novelty-seeking-detection/
+├── data/                  # TripAdvisor Reviews Dataset
+├── models/                # Saved Models (BERT, BiGRU, CNN)
+├── notebook/              # Jupyter Notebooks for training & evaluation
+├── utils/                 # Preprocessing and helper functions
+├── README.md              # Project documentation
+└── requirements.txt       # Required Python packages
+```
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/novelty-seeking-detection.git
+   cd novelty-seeking-detection
+   ```
+
+2. **Create a virtual environment (optional):**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # or venv\Scripts\activate on Windows
+   ```
+
+3. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Run the training notebook:**
+   Open `notebook/train_model.ipynb` in Jupyter Notebook or any Python IDE.
+
+---
+
+## 🔮 Future Work
+
+- Integrate attention mechanisms for deeper contextual understanding
+- Extend model to other personality traits (e.g., extroversion, openness)
+- Deploy model as an API for integration with tourism platforms
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🤝 Acknowledgements
+
+- TripAdvisor for review dataset
+- Research papers on BERT, GRU, and CNN architectures
+- Hugging Face for transformer models
+
+---
+
+## 📫 Contact
+
+For queries or collaborations, feel free to contact:
+
+- **Name**: [Your Name]
+- **Email**: your.email@example.com
+- **LinkedIn**: [Your LinkedIn Profile]
+
+```
+
+Would you like a `requirements.txt` file or a sample training notebook as well?
