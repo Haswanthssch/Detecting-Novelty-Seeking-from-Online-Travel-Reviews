@@ -130,14 +130,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 📫 Contact
-
-For queries or collaborations, feel free to contact:
-
-- **Name**: [Your Name]
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile]
-
-```
-
-Would you like a `requirements.txt` file or a sample training notebook as well?
